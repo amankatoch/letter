@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  padding: 0;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+table {
+  border-spacing: 0;
+  font-family:Helvetica,Arial,sans-serif;
+  font-size: 12px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
+h1 {
+    font-size: 26px;
+    font-family: Helvetica,Arial,sans-serif;
+    letter-spacing: -1px;
+    line-height: 30px;
+    margin-bottom: 16px;
+    margin-top: 2px;
+    color: #585858;
+}
+h2 {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 12px;
+    margin-top: 6px;
+    color: #585858;
+    font-family: Helvetica,Arial,sans-serif;
+}
+h3 {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 12px;
+    margin-top: 2px;
+}
+h4 {
+    font-size: 14px;
+    font-weight: bold;
+}
+h5 {
+    font-size: 12px;
+}
+h6 {
+    font-size: 12px;
+    font-weight: bold;
+}
+a {
+    color: #5ca8cd;
+    text-decoration: none;
+    padding: 2px 0px;
+}
+a:link {
+    color: #5ca8cd;
+}
+a:visited {
+    color: #5ca8cd;
+}
+p
+{
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:12px;
+  line-height:20px;
+  text-align:left;
+  color:#585858;
+}
+table td {
+  border-collapse: collapse;
+}
+
+.ExternalClass {
+  width: 100%;
+}
+
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+
+.ReadMsgBody {
+  width: 100%;
+  background-color: #ebebeb;
+}
+
+table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+}
+
+img {
+  -ms-interpolation-mode: bicubic;
+}
+
+.yshortcuts a {
+  border-bottom: none !important;
+}
+
+@media screen and (max-width: 599px) {
+  .force-row,
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+@media screen and (max-width: 400px) {
+  .container-padding {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+}
+.ios-footer a {
+  color: #aaaaaa !important;
+  text-decoration: underline;
+}
